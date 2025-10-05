@@ -46,6 +46,40 @@ body {
     background-color: #B5C99A;
 }
 
+#education {
+    text-align: center;
+    margin: 10px;
+
+    p {
+        margin: 4px;
+    }
+
+    h2 {
+        margin: 4px;
+    }
+
+    h3 {
+        margin: 4px;
+    }
+}
+
+#experience {
+    text-align: center;
+    margin: 10px;
+    h2 {
+        margin: 4px;
+    }
+
+    h3 {
+        margin: 4px;
+    }
+
+    p {
+        text-align: left;
+    }
+
+}
+
 div.main {
     display: flex;
     flex-direction: row;
