@@ -80,6 +80,31 @@ body {
 
 }
 
+#projects {
+    text-align: center;
+}
+
+.game-list {
+    div {
+        float: left;
+    }
+
+    div a {
+        margin: auto;
+        display: block;
+        text-align: center;
+        font-size: 12pt;
+        padding: 10px 10px;
+        text-decoration: none;
+        background-color: #CFE1B9;
+    }
+
+    div a:hover {
+        margin: 0;
+        background-color: #B5C99A;
+    }
+}
+
 div.main {
     display: flex;
     flex-direction: row;
